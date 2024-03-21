@@ -121,3 +121,10 @@ Knowledge graphs: Language models can query knowledge graphs using APIs that mim
 Search engine: By utilizing search engine APIs like Bing Search, language models can interact with search engines to extract information and provide answers to real-time queries. These tools enhance the model’s ability to gather information from the web and deliver accurate responses.
 Wikipedia: Language models equipped with Wikipedia search tools can search for specific entities on Wikipedia pages, look up keywords within a page, or disambiguate entities with similar names. These tools facilitate question-answering tasks using content retrieved from Wikipedia.
 Online shopping: Connecting language models with online shopping tools allows them to perform actions like searching for items, loading detailed information about products, selecting item features, going through shopping pages, and making purchase decisions based on specific user instructions.
+
+
+
+
+
+Title Getting Started with LangChain
+
