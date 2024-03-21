@@ -1,0 +1,35 @@
+# langchain
+.langchain.db
+langflow.db
+
+# api keys
+config.py
+
+# mac
+.DS_Store
+
+# Distribution/Packaging
+.env
+.venv
+env/
+venv/
+wheels/
+*.egg
+.ruff_cache
+search_engine/faiss_index.db/
+
+# IDEs
+.idea
+.vs/
+.vscode/
+.spyderproject
+.spyproject
+.ipynb_checkpoints
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/*.pyc
+
+# Logs
+logs/
